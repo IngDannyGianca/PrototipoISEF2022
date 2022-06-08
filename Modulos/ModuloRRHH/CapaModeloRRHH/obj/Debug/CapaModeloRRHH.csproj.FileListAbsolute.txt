@@ -1,0 +1,5 @@
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaModeloRRHH\bin\Debug\CapaModeloRRHH.dll
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaModeloRRHH\bin\Debug\CapaModeloRRHH.pdb
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaModeloRRHH\obj\Debug\CapaModeloRRHH.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaModeloRRHH\obj\Debug\CapaModeloRRHH.dll
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaModeloRRHH\obj\Debug\CapaModeloRRHH.pdb

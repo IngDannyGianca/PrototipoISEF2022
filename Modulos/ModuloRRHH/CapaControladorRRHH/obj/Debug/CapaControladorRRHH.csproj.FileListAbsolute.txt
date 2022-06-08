@@ -1,0 +1,9 @@
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\bin\Debug\CapaControladorRRHH.dll
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\bin\Debug\CapaControladorRRHH.pdb
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\bin\Debug\CapaModeloRRHH.dll
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\bin\Debug\CapaModeloRRHH.pdb
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\obj\Debug\CapaControladorRRHH.csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\obj\Debug\CapaControladorRRHH.csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\obj\Debug\CapaControladorRRHH.csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\obj\Debug\CapaControladorRRHH.dll
+C:\Users\GiancarloS\Desktop\2\IS220221\Modulos\ModuloRRHH\CapaControladorRRHH\obj\Debug\CapaControladorRRHH.pdb
